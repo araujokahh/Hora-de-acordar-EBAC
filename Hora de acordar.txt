@@ -1,0 +1,22 @@
+Hora de acordar
+
+1-	Escutar o despertador
+2-	Abrir os olhos 
+3-	Pegar o celular
+4-	Desligar o despertador
+	a.	É final de semana? Sim 
+	b.	Abrir uma rede social 
+	c.	Rolar o feed por alguns minutos
+5-	Levantar 
+6-	Calçar os chinelos 
+7-	Descer as escadas 
+8-	Ir ao banheiro 
+9-	Abrir o armário
+10-	Pegar a escova de dentes 
+11-	Pegar a pasta de dentes 
+12-	Escovar os dentes 
+13-	Guardar a escova de dentes no armário 
+14-	Guardar a pasta de dentes no armário 
+15-	Fechar o armário 
+16-	Ir até a cozinha 
+17-	Preparar o café da manhã 
